@@ -1,2 +1,2 @@
 # Linguagem C
- Básico de linguágem C para aplicações de consola, criado com objetivos puramente acadêmicos.
+ Básico de linguágem C para aplicações de console, criado com objetivos puramente acadêmicos.
