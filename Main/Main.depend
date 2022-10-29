@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665602345 source:c:\users\tiagu\documents\github\linguagem-c\main\main.c
+	<stdio.h>
+	<locale.h>
+
